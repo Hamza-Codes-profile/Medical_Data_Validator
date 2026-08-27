@@ -24,7 +24,7 @@ Takes a list of patient dictionaries and validates each record against predefine
 
 ## How to Run
 ```bash
-python main.py
+python Medical_Data_Validator.py
 ```
 
 ## Built With
